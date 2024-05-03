@@ -17,13 +17,16 @@ export const Pwc: Experience = {
     <>
       <ul>
         <li>
-          Led a team of 6 interns in a competition, achieving a top 4 of 16 teams for our app’s UX/UI by presenting our design decisions in front of a panel of judges in OzHarvest.
+          Led a team of 6 interns in a competition, achieving a top 4 of 16 teams for our app{'\’'}s
+          UX/UI by presenting our design decisions in front of a panel of judges in OzHarvest.
         </li>
         <li>
-          Collaborated with other associates preparing tax documentation for clients, ensuring the accuracy of documentation for 20 clients and completing their tax filing.
+          Collaborated with other associates preparing tax documentation for clients, ensuring
+          the accuracy of documentation for 20 clients and completing their tax filing.
         </li>
         <li>
-          Utilized Excel macros and regex to analyse customer relationship data for over 200 customers, identifying insights for decision-making for associates.
+          Utilized Excel macros and regex to analyse customer relationship data for over 200
+          customers, identifying insights for decision-making for associates.
         </li>
       </ul>
     </>
