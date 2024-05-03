@@ -1,0 +1,81 @@
+@font-face {
+  font-family: "Super Smash TV";
+  src: url("./assets/fonts/Super Smash TV.ttf");
+}
+
+@font-face {
+  font-family: "pokemondppt";
+  src: url("./assets/fonts/pokemondppt.ttf");
+}
+
+@font-face {
+  font-family: "Pokedex";
+  src: url("./assets/fonts/Pokedex.TTF");
+}
+
+@font-face {
+  font-family: "deltarune";
+  src: url("./assets/fonts/deltarune.ttf");
+}
+
+@font-face {
+  font-family: "eightbithud";
+  src: url("./assets/fonts/eightbithud.ttf");
+}
+
+:root {
+  --light-red: #F898A0;
+  --red: #E83030;
+  --dark-red: #C02028;
+  --darker-red: #901020;
+  --white: #F8F8F8;
+  --lighter-grey: #D8D8D8;
+  --light-grey: #A8A8A8;
+  --grey: #787878;
+  --dark-grey: #585858;
+  --darker-grey: #404040;
+  --black: #212121;
+}
+
+html {
+  /* When changing this value make sure there are not white gaps between lines */
+  font-size: 0.185vw;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: var(--white);
+  background-size: 40rem 40rem;
+  background-position: 10rem 0rem;
+  background-image:
+    linear-gradient(to right, var(--light-grey) 1rem, transparent 1rem),
+    linear-gradient(to bottom, var(--light-grey) 1rem, transparent 1rem);
+}
+
+@media screen and (max-aspect-ratio: 1/1) {
+  html {
+    font-size: 0.7vw;
+  }
+
+  body {
+    background-position: 10rem 0rem;
+  }
+}
+
+main {
+  padding-top: 10rem;
+}
+
+ul {
+  margin: 0;
+  padding-left: 6rem;
+  list-style-type: square;
+}
+
+a {
+  color: inherit;
+}
