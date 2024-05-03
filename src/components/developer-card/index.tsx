@@ -26,13 +26,22 @@ const familiarTechnologies: TechnologyName[] = [
   'c++',
   'python',
   'java',
+  'spring boot',
   'html',
   'css',
   'javascript',
   'typescript',
   'react',
-  'sql',
+  'node',
   'bash',
+  'gcp',
+  'docker',
+  'kubernetes',
+  'sql',
+  'jira',
+  'confluence',
+  'git',
+  'office',
 ];
 
 const DeveloperCard = () => {
