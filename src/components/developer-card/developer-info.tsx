@@ -12,7 +12,7 @@ const DeveloperInfo: FC<{small?: boolean}> = (({ small = false }) => (
     <RowGroup>
       <Row small={small}>
         <span>University</span>
-        <span>University of New South Wales Sydney</span>
+        <span>University of New South Wales</span>
       </Row>
       <Row small={small}>
         <span>Degree</span>
