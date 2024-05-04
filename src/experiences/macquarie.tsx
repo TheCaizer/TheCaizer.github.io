@@ -18,24 +18,23 @@ export const Macquarie: Experience = {
     <>
       <ul>
         <li>
-          Improved the reliability and accuracy of curve data in the Macquarie Trading System by an
-          average of 15% by developing a curve derivation class that minimises noise in C++.
+          Improved the reliability and accuracy of curve data in the Macquarie Trading System in C++.
         </li>
         <li>
           Implemented an automated functionality in C++ testing all mappings in the trading system
-          eliminating a 1-hour manual process, and reducing testing time.
+          reducing testing time.
         </li>
         <li>
-          Identified and decommissioned 15 obsolete databases, resulting in annual savings of $50,000;
-          By analysis of usage and relevance of databases using SQL during a platform migration.
+          Identified and decommissioned 15 obsolete databases, by analysis of usage and relevance of
+          databases using SQL.
         </li>
         <li>
-          Engineered Java APIs for intent layer using agile methodology, achieving a 20% decrease in
-          customer processing time for home loan applications, increasing retention rates.
+          Engineered Java APIs for intent layer, reducing customer processing time for home loan
+          applications, increasing retention rates.
         </li>
         <li>
           Developed over 50+ Java tests using JUnit and Cucumber to test API functionality and
-          identify bugs, resulting in more robust and error-free application performance.
+          identify bugs.
         </li>
       </ul>
     </>
