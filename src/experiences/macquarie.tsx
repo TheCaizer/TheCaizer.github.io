@@ -18,7 +18,7 @@ export const Macquarie: Experience = {
     <>
       <ul>
         <li>
-          Improved the reliability and accuracy of curve data in the Macquarie Trading System in C++.
+          Improved the reliability of curve data in the Macquarie Trading System using C++.
         </li>
         <li>
           Implemented an automated functionality in C++ testing all mappings in the trading system
@@ -31,10 +31,6 @@ export const Macquarie: Experience = {
         <li>
           Engineered Java APIs for intent layer, reducing customer processing time for home loan
           applications, increasing retention rates.
-        </li>
-        <li>
-          Developed over 50+ Java tests using JUnit and Cucumber to test API functionality and
-          identify bugs.
         </li>
       </ul>
     </>

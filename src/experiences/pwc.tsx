@@ -26,7 +26,7 @@ export const Pwc: Experience = {
         </li>
         <li>
           Utilized Excel macros and regex to analyse customer relationship data for over 200
-          customers, identifying insights for decision-making for associates.
+          customers.
         </li>
       </ul>
     </>
