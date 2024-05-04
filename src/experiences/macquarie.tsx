@@ -30,7 +30,7 @@ export const Macquarie: Experience = {
         </li>
         <li>
           Engineered Java APIs for intent layer, reducing customer processing time for home loan
-          applications, increasing retention rates.
+          and increasing retention rates.
         </li>
       </ul>
     </>

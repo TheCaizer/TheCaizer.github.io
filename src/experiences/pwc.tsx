@@ -5,7 +5,7 @@ import { Experience } from '../types/experience';
 
 export const Pwc: Experience = {
   id: 'pwc',
-  name: 'PricewaterhouseCoopers (PwC) Australia',
+  name: 'PwC Australia',
   role: 'Indirect Tax Technology Intern',
   startDate: new Date('2021-11-01'),
   endDate: new Date('2022-02-20'),
