@@ -10,7 +10,7 @@ export const Macquarie: Experience = {
   startDate: new Date('2023-02-15'),
   endDate: null,
   stack: ['c', 'c++', 'python', 'java', 'spring boot', 'sql', 'bash', 'gcp',
-    'git', 'kubernetes', 'docker', 'jira', 'confluence'],
+    'kubernetes', 'docker'],
   color: '#04B888',
   logo: MacquarieLogo,
   badge: MacquarieBadge,
