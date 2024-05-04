@@ -85,12 +85,12 @@ const technologies: {[key in TechnologyName as key]: Technology} = {
   },
   'jira': {
     name: 'jira',
-    colors: ['#0052CC', '#0052CC', '#EEEEEE', '#EEEEEE'],
+    colors: ['#0052CC', '#0052CC', '#D8D8D8', '#D8D8D8'],
     link: 'https://www.atlassian.com/software/jira',
   },
   'confluence': {
     name: 'confluence',
-    colors: ['#EEEEEE', '#EEEEEE', '#0052CC', '#0052CC'],
+    colors: ['#D8D8D8', '#D8D8D8', '#0052CC', '#0052CC'],
     link: 'https://www.atlassian.com/software/confluence',
   },
   'git': {
