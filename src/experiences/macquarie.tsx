@@ -21,8 +21,7 @@ export const Macquarie: Experience = {
           Improved the reliability of curve data in the Macquarie Trading System using C++.
         </li>
         <li>
-          Implemented an automated functionality in C++ testing all mappings in the trading system
-          reducing testing time.
+          Implemented automated functionality in C++ testing all mappings in the trading system.
         </li>
         <li>
           Identified and decommissioned 15 obsolete databases, by analysis of usage and relevance of
