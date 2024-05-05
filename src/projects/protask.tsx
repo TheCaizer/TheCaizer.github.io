@@ -6,7 +6,7 @@ import ProtaskSprite from '../assets/projects/protask/protask-sprite.png';
 export const Protask: Project = {
   id: 0,
   name: 'Protask',
-  category: 'Task Management System',
+  category: 'Task Management',
   participation: true,
   stack: ['react', 'css', 'python', 'sql'],
   color: '#1ED760',
