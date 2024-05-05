@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7f0e73ed.chunk.css",
-    "main.js": "/static/js/main.54726cee.chunk.js",
-    "main.js.map": "/static/js/main.54726cee.chunk.js.map",
+    "main.js": "/static/js/main.257eb398.chunk.js",
+    "main.js.map": "/static/js/main.257eb398.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2afc5bf4.js",
     "runtime-main.js.map": "/static/js/runtime-main.2afc5bf4.js.map",
     "static/js/2.25d34c20.chunk.js": "/static/js/2.25d34c20.chunk.js",
@@ -15,13 +15,13 @@
     "static/media/index.css": "/static/media/pokemondppt.d900fa5a.ttf",
     "static/media/Resume.1b004797.pdf": "/static/media/Resume.1b004797.pdf",
     "static/media/macquarie.c1d84f21.svg": "/static/media/macquarie.c1d84f21.svg",
-    "static/media/protask-logo.dbef3799.svg": "/static/media/protask-logo.dbef3799.svg",
+    "static/media/protask-logo.2e9542d6.svg": "/static/media/protask-logo.2e9542d6.svg",
     "static/media/pwc.024a3fa9.svg": "/static/media/pwc.024a3fa9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2afc5bf4.js",
     "static/js/2.25d34c20.chunk.js",
     "static/css/main.7f0e73ed.chunk.css",
-    "static/js/main.54726cee.chunk.js"
+    "static/js/main.257eb398.chunk.js"
   ]
 }
