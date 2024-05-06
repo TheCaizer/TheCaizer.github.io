@@ -20,7 +20,7 @@ export const GloriaRomanus: Project = {
     </span>,
     <span key={1}>
       Collabarated with another student in the course COMP2511 to create this.
-      This Course teache Object Oriented Programming and it's designs.
+      This Course teache Object Oriented Programming and it{'\’'}s designs.
     </span>,
     <span key={2}>
       Used Object Oriented Paradigm to create classes in the backend, such as factions and mechanics.
