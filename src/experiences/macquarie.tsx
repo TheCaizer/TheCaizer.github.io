@@ -11,7 +11,7 @@ export const Macquarie: Experience = {
   endDate: null,
   stack: ['c', 'c++', 'python', 'java', 'spring boot', 'sql', 'bash', 'gcp',
     'kubernetes', 'docker'],
-  color: '#04B888',
+  color: '#323232',
   logo: MacquarieLogo,
   badge: MacquarieBadge,
   description: (
