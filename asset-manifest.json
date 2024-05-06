@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7f0e73ed.chunk.css",
-    "main.js": "/static/js/main.b35e0e56.chunk.js",
-    "main.js.map": "/static/js/main.b35e0e56.chunk.js.map",
+    "main.js": "/static/js/main.2f16ca37.chunk.js",
+    "main.js.map": "/static/js/main.2f16ca37.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2afc5bf4.js",
     "runtime-main.js.map": "/static/js/runtime-main.2afc5bf4.js.map",
     "static/js/2.25d34c20.chunk.js": "/static/js/2.25d34c20.chunk.js",
@@ -17,12 +17,13 @@
     "static/media/gloria-romanus-logo.feeaac2e.svg": "/static/media/gloria-romanus-logo.feeaac2e.svg",
     "static/media/macquarie.c1d84f21.svg": "/static/media/macquarie.c1d84f21.svg",
     "static/media/protask-logo.c09c6eee.svg": "/static/media/protask-logo.c09c6eee.svg",
-    "static/media/pwc.024a3fa9.svg": "/static/media/pwc.024a3fa9.svg"
+    "static/media/pwc.024a3fa9.svg": "/static/media/pwc.024a3fa9.svg",
+    "static/media/slackr-logo.63931903.svg": "/static/media/slackr-logo.63931903.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2afc5bf4.js",
     "static/js/2.25d34c20.chunk.js",
     "static/css/main.7f0e73ed.chunk.css",
-    "static/js/main.b35e0e56.chunk.js"
+    "static/js/main.2f16ca37.chunk.js"
   ]
 }
