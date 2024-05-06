@@ -14,4 +14,5 @@ export type Project = {
 }
 
 export type ProjectName = 'Protask'
-                        | 'GloriaRomanus'
+                        | 'Gloria Romanus'
+                        | 'Slackr'

@@ -5,7 +5,7 @@ import GloriaRomanusSprite from '../assets/projects/gloria-romanus/gloria-romanu
 
 export const GloriaRomanus: Project = {
   id: 0,
-  name: 'GloriaRomanus',
+  name: 'Gloria Romanus',
   category: 'Strategy Game',
   participation: true,
   stack: ['java'],
