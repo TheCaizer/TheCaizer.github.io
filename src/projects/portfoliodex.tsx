@@ -15,10 +15,10 @@ export const PortfolioDex: Project = {
   link: 'https://thecaizer.github.io/',
   description: [
     <span key={0}>
-      A Pokemon themed portfolio made using typescript to showcase my projects and my experiences. 
+      A Pokemon themed portfolio made using typescript to showcase my projects and my experiences.
     </span>,
     <span key={1}>
-      Personally created the sprite assets for the website to replicate the logo's obtained from the internet.
+      Personally created the sprite assets for the website to replicate the logo{'\''}s obtained from the internet.
     </span>,
     <span key={2}>
       Click on the link to find out what a recursion is.

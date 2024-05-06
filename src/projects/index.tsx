@@ -1,5 +1,5 @@
 import { Project, ProjectName } from '../types/project';
-import {PortfolioDex} from './portfoliodex';
+import { PortfolioDex } from './portfoliodex';
 import { Protask } from './protask';
 import { GloriaRomanus } from './gloria-romanus';
 import { Slackr } from './slackr';
