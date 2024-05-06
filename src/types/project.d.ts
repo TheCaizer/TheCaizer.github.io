@@ -13,6 +13,7 @@ export type Project = {
     description: JSX.Element[],
 }
 
-export type ProjectName = 'Protask'
+export type ProjectName = 'PortfolioDex'
+                        | 'Protask'
                         | 'Gloria Romanus'
                         | 'Slackr'
