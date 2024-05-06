@@ -26,7 +26,7 @@ export const GloriaRomanus: Project = {
       Used Object Oriented Paradigm to create classes in the backend, such as factions and mechanics.
     </span>,
     <span key={3}>
-      Implemented the game{'\''}s logic, such as win condition, bot behaviour and game progression.
+      Implemented the game{'\’'}s logic, such as win condition, bot behaviour and game progression.
     </span>,
   ],
 };
