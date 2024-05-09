@@ -157,6 +157,13 @@ const DeveloperCard = () => {
               <>
                 <Title small>Developer Card</Title>
                 <Avatar />
+                <div style={{ display: 'flex',
+                  flexWrap: 'wrap',
+                  justifyContent: 'center',
+                  transform: 'scale(0.83)',
+                  transformOrigin: 'top left',
+                  width: '120%',
+                }}
                 <DeveloperInfo />
                 <div style={{ display: 'flex',
                   flexWrap: 'wrap',
