@@ -21,8 +21,8 @@ const DeveloperInfo: FC<{small?: boolean}> = (({ small = false }) => (
     </RowGroup>
     <RowGroup>
       <Row small={small}>
-        <span>Favourite Pokemon:</span>
-        <span>Aegislash</span>
+        <span>Favourite Language:</span>
+        <span>English (C++)</span>
       </Row>
     </RowGroup>
   </>
