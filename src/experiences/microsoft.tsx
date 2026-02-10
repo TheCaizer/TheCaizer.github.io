@@ -17,7 +17,6 @@ export const Microsoft: Experience = {
     <>
       <ul>
         <li>
-          
         </li>
       </ul>
     </>
