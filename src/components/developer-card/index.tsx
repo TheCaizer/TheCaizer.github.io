@@ -24,6 +24,7 @@ import {
 const familiarTechnologies: TechnologyName[] = [
   'c',
   'c++',
+  'c#',
   'python',
   'java',
   'spring boot',

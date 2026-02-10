@@ -105,7 +105,7 @@ const technologies: {[key in TechnologyName as key]: Technology} = {
   },
   'c#': {
     name: 'c#',
-    colors: ['#9179E4', '#2f00ffff', '#9179E4', '#2f00ffff'],
+    colors: ['#9179E4', '#9179E4', '#2f00ffff', '#2f00ffff'],
     link: 'https://www.microsoft.com/en-au/microsoft-365/microsoft-https://learn.microsoft.com/en-us/dotnet/csharp/',
   },
 };
