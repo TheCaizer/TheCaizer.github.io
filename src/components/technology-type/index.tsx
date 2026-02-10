@@ -103,6 +103,11 @@ const technologies: {[key in TechnologyName as key]: Technology} = {
     colors: ['#F14F21', '#7EB900', '#00A3EE', '#FEB800'],
     link: 'https://www.microsoft.com/en-au/microsoft-365/microsoft-office',
   },
+  'c#': {
+    name: 'c#',
+    colors: ['#9179E4', '#2f00ffff', '#9179E4', '#2f00ffff'],
+    link: 'https://www.microsoft.com/en-au/microsoft-365/microsoft-https://learn.microsoft.com/en-us/dotnet/csharp/',
+  },
 };
 
 const TechnologyType: FC<{name: TechnologyName, small?: boolean}> = ({ name, small = false }) => (

@@ -9,6 +9,7 @@ export type TechnologyColors = [string, string, string, string];
 export type TechnologyName = 'c'
                             | 'c++'
                             | 'python'
+                            | 'c#'
 
                             | 'java'
                             | 'spring boot'

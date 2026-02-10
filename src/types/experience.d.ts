@@ -15,4 +15,5 @@ export type Experience = {
 
 export type ExperienceName =
   | 'pwc'
-  | 'macquarie';
+  | 'macquarie'
+  | 'microsoft';

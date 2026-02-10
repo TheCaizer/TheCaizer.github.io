@@ -6,9 +6,9 @@ import { Experience } from '../types/experience';
 export const Macquarie: Experience = {
   id: 'macquarie',
   name: 'Macquarie Group',
-  role: 'Software Engineer L2',
+  role: 'Software Engineer',
   startDate: new Date('2023-02-15'),
-  endDate: null,
+  endDate: new Date('2026-02-15'),
   stack: ['c', 'c++', 'python', 'java', 'spring boot', 'sql', 'bash', 'gcp',
     'kubernetes', 'docker'],
   color: '#323232',
