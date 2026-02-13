@@ -106,7 +106,7 @@ const DeveloperCard = () => {
           <div style={{ flexGrow: 1 }} />
 
           <BadgeRow>
-            <BadgesHeading>Badges</BadgesHeading>
+            <BadgesHeading>Experiences</BadgesHeading>
             <Badges>
               {Object.values(experiences).map((experience, index) => (
                 <div
